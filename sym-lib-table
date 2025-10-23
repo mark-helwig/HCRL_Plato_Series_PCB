@@ -1,0 +1,9 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "imports")(type "KiCad")(uri "${KIPRJMOD}/imports.kicad_sym")(options "")(descr ""))
+  (lib (name "RLS-397")(type "KiCad")(uri "${KIPRJMOD}/imports/RLS-397/RLS-397.kicad_sym")(options "")(descr ""))
+  (lib (name "F31W-1A7H1-11008")(type "KiCad")(uri "${KIPRJMOD}/imports/F31W/F31W-1A7H1-11008.kicad_sym")(options "")(descr ""))
+  (lib (name "1053091104")(type "KiCad")(uri "${KIPRJMOD}/imports/1053091104/1053091104.kicad_sym")(options "")(descr ""))
+  (lib (name "TFM-108-02-L-D")(type "KiCad")(uri "${KIPRJMOD}/imports/TFM-108-02/TFM-108-02-L-D.kicad_sym")(options "")(descr ""))
+  (lib (name "DLW21SN900SQ2L")(type "KiCad")(uri "${KIPRJMOD}/imports/DLW21SN900SQ2L/DLW21SN900SQ2L.kicad_sym")(options "")(descr ""))
+)
