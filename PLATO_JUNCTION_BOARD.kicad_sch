@@ -6422,7 +6422,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "https://www.digikey.com/short/2d2238z9"
+		(property "Digikey" "owned"
 			(at 58.42 111.76 0)
 			(effects
 				(font
@@ -6492,6 +6492,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 121.92 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "owned"
 			(at 121.92 158.75 0)
 			(effects
 				(font
@@ -6669,7 +6678,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "https://www.digikey.com/short/qtbd5z2t"
+		(property "Digikey" "owned, maybe find locking"
 			(at 195.58 100.33 0)
 			(effects
 				(font
@@ -6789,6 +6798,15 @@
 				(hide yes)
 			)
 		)
+		(property "Digikey" "owned"
+			(at 121.92 175.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d77ec8c9-327e-48db-91ef-1f0de8d01984")
 		)
@@ -6860,7 +6878,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "https://www.digikey.com/short/0hmz210w"
+		(property "Digikey" "owned"
 			(at 38.1 154.94 0)
 			(effects
 				(font
@@ -6942,7 +6960,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "https://www.digikey.com/short/02m50734"
+		(property "Digikey" "owned"
 			(at 142.24 106.68 0)
 			(effects
 				(font
@@ -7024,7 +7042,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "https://www.digikey.com/short/t83n8jjn"
+		(property "Digikey" "owned"
 			(at 31.75 110.49 90)
 			(effects
 				(font
@@ -7097,6 +7115,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 46.99 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "https://www.digikey.com/short/9qj3z9bw"
 			(at 46.99 64.77 0)
 			(effects
 				(font
@@ -7267,7 +7294,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "https://www.digikey.com/short/0hmz210w"
+		(property "Digikey" "owned"
 			(at 38.1 179.07 0)
 			(effects
 				(font
@@ -7572,7 +7599,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "https://www.digikey.com/short/z7bhhmmm"
+		(property "Digikey" "owned"
 			(at 151.13 109.22 0)
 			(effects
 				(font
@@ -7795,7 +7822,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "https://www.digikey.com/short/f2p10b24"
+		(property "Digikey" "owned - buy 20A fuse"
 			(at 45.974 110.998 90)
 			(effects
 				(font
@@ -7830,7 +7857,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "806a45c4-aef0-49c9-95d8-4f28c8f16129")
-		(property "Reference" "#PWR10"
+		(property "Reference" "#PWR010"
 			(at 62.23 66.04 0)
 			(effects
 				(font
@@ -7882,7 +7909,7 @@
 		(instances
 			(project "PLATO_JUNCTION_BOARD"
 				(path "/b029bc8a-eb1a-4550-a6f9-ce3f11ff00d6"
-					(reference "#PWR10")
+					(reference "#PWR010")
 					(unit 1)
 				)
 			)
@@ -7899,7 +7926,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "86dd9c8c-0c25-4d09-9a73-96cf90c2092a")
-		(property "Reference" "#PWR9"
+		(property "Reference" "#PWR09"
 			(at 55.88 93.98 0)
 			(effects
 				(font
@@ -7950,7 +7977,7 @@
 		(instances
 			(project "PLATO_JUNCTION_BOARD"
 				(path "/b029bc8a-eb1a-4550-a6f9-ce3f11ff00d6"
-					(reference "#PWR9")
+					(reference "#PWR09")
 					(unit 1)
 				)
 			)
@@ -8328,7 +8355,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "https://www.digikey.com/short/t0qqff27"
+		(property "Digikey" "owned"
 			(at 102.87 109.22 0)
 			(effects
 				(font
@@ -8506,7 +8533,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "https://www.digikey.com/short/qtbd5z2t"
+		(property "Digikey" "owned, maybe find locking"
 			(at 254 100.33 0)
 			(effects
 				(font
@@ -8816,6 +8843,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 58.42 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "owned"
 			(at 58.42 123.19 0)
 			(effects
 				(font
@@ -9300,7 +9336,7 @@
 				(hide yes)
 			)
 		)
-		(property "Digikey" "https://www.digikey.com/short/zm0rcz48"
+		(property "Digikey" "owned"
 			(at 71.12 116.84 0)
 			(effects
 				(font
@@ -9868,6 +9904,15 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 157.48 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Digikey" "owned"
 			(at 157.48 110.49 0)
 			(effects
 				(font
